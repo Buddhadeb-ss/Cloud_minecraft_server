@@ -28,3 +28,16 @@ SKILLS DEMONSTRATED
 CONTENTS OF THIS REPOSITORY
 - start.sh: A sample Bash script used to launch the Java process with specific memory allocation.
 - server.properties: Configuration file demonstrating server settings.
+Results
+
+<img width="714" height="1280" alt="image" src="https://github.com/user-attachments/assets/c3386c4a-2e2e-4c7a-89e2-542d1681a41a" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/c166ae97-ea40-45d1-809e-dab097755dce" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/355aa3c4-a2b2-47ed-adf3-d51390514857" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/55e5d771-e111-4dab-9fab-11dec5debf27" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/ef00ebf6-b06b-4187-a595-94af79f83dbe" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/1d57b0dd-fba1-417b-af64-a193f6d21f0c" />
+
+
+
+
+
